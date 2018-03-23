@@ -1,1 +1,2 @@
 # Marisa-Bot
+Un bot inspirado en la saga de Touhou Project. Puedes usarlo si quieres, no me importa mucho, este repositorio solo existe para tener una copia del bot. Tiene funciones básicas, como por ejemplo conseguir la foto de perfil de alguien, y también tiene funciones más complejas, como un sistema de votación e incluso uno de EXP. Si quieres usar el de EXP, necesitas el módulo MySQL y un server de MySQL con la misma base de datos y tabla usado en bot.js. Si tienes alguna pregunta, sientete libre de contactarme.
